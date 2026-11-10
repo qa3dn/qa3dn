@@ -7,11 +7,7 @@
   <a href="https://github.com/qa3dn?tab=repositories">Repositories</a>
 </p>
 
-### Building useful products, from interface to infrastructure.
-
-I'm **Mohammad Qaadan**, a full-stack developer based in **Jordan**, working across AI products, web platforms.
-
-My work spans typed APIs, background jobs, data models, and interfaces that work naturally in Arabic and English. I care about clear architecture, traceable results, and thoughtful user experiences.
+Software Engineer with hands-on experience building real-world web platforms used by active users. Strong background in full stack development, system design, and AI-powered features. Led the delivery of multiple production-level projects with a focus on maintainable architecture, practical problem analysis, and user-oriented solutions. Motivated to grow within a professional engineering team and contribute to reliable, high-impact software products.
 
 ### Featured work
 
