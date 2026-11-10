@@ -34,8 +34,6 @@ My work spans typed APIs, background jobs, data models, and interfaces that work
 
 <div dir="rtl">
 
-**أهلًا، أنا محمد قعدان.** أعمل على بناء منتجات ويب وتجارب عربية وإنجليزية، من الواجهة إلى الخادم والبيانات.
-
 </div>
 
 ---
