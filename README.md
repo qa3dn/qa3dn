@@ -9,7 +9,7 @@
 
 ### Building useful products, from interface to infrastructure.
 
-I'm **Mohammad Qaadan**, a full-stack developer based in **Jordan**, working across AI products, web platforms woek at **[Bitwreckers](https://github.com/Bitwreckers)**.
+I'm **Mohammad Qaadan**, a full-stack developer based in **Jordan**, working across AI products, web platforms.
 
 My work spans typed APIs, background jobs, data models, and interfaces that work naturally in Arabic and English. I care about clear architecture, traceable results, and thoughtful user experiences.
 
