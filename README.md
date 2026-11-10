@@ -1,4 +1,4 @@
-![Mohammad Qaadan](assets/profile-banner.svg)
+
 
 <p align="center">
   <a href="https://www.bitcourses.net/cv/qa3dn">Portfolio</a> &nbsp;·&nbsp;
@@ -9,7 +9,7 @@
 
 ### Building useful products, from interface to infrastructure.
 
-I'm **Mohammad Qaadan**, a full-stack developer based in **Jordan**, working across AI products, web platforms, and Arabic-first experiences at **[Bitwreckers](https://github.com/Bitwreckers)**.
+I'm **Mohammad Qaadan**, a full-stack developer based in **Jordan**, working across AI products, web platforms woek at **[Bitwreckers](https://github.com/Bitwreckers)**.
 
 My work spans typed APIs, background jobs, data models, and interfaces that work naturally in Arabic and English. I care about clear architecture, traceable results, and thoughtful user experiences.
 
@@ -18,10 +18,7 @@ My work spans typed APIs, background jobs, data models, and interfaces that work
 | Project | What it explores | Core stack |
 | :--- | :--- | :--- |
 | **[AI Visibility OS](https://github.com/qa3dn/ai-visibility-os)** | Evidence-driven brand visibility in AI answers: mentions, citations, competitors, and opportunities. | Next.js · NestJS · Prisma · BullMQ |
-| **[Fantasy Syria](https://github.com/qa3dn/fantasy-syria)** | Fantasy football for the Syrian Premier League, with scoring, squads, leagues, and operations tools. | TypeScript · NestJS · Next.js · Redis |
 | **[HighLit](https://github.com/qa3dn/HighLit1)** | A developer community graduation project connecting project sharing, jobs, companies, and moderation. | Django REST · Next.js · React |
-
-**Also on my workbench:** [Qarar](https://github.com/qa3dn/qarar), an Arabic AI-assisted decision-making app, and [Space Learn](https://github.com/qa3dn/space-learn), an early HTML/CSS exploration.
 
 ### Tools I work with
 
